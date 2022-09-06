@@ -48,4 +48,24 @@ Download the ISO indicated in the image below:
 ![2022-09-06 (15)](https://user-images.githubusercontent.com/112576171/188758551-2b480f32-4127-412f-8d01-69e7d33a66b2.png)
 ![2022-09-06 (16)](https://user-images.githubusercontent.com/112576171/188758552-a2a5f0c9-ebc4-487b-b2d9-9aa8f62eb4f9.png)
 
-After that, we can start the installation by clicking "start".
+5. After that, we can start the installation by clicking "start".
+
+![Sem título](https://user-images.githubusercontent.com/112576171/188759324-ff941051-66d8-4166-a9a0-0d7f2891a3af.png)
+
+6. Select the downloaded ISO.
+
+![2022-09-06 (18)](https://user-images.githubusercontent.com/112576171/188759492-0c2a2770-d7ae-45dd-b934-e8f6019ccd83.png)
+
+7. Click "Install Oracle Linux 8.6.0".
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_28_32](https://user-images.githubusercontent.com/112576171/188759627-882bfb9c-c476-4be4-84ee-b5e79199f9e5.png)
+
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_39_44](https://user-images.githubusercontent.com/112576171/188759775-966ec43a-2d3e-4221-af1b-051e6a5ba2fb.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_31_58](https://user-images.githubusercontent.com/112576171/188759777-395230fb-925c-448c-9557-84f3410716c7.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_33_03](https://user-images.githubusercontent.com/112576171/188759779-9b67e410-09a9-4c52-9d88-14f8bb109709.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_33_26](https://user-images.githubusercontent.com/112576171/188759780-0ed5b599-14c1-4511-9090-a04408f54b29.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_34_10](https://user-images.githubusercontent.com/112576171/188759782-20a334cd-ee3e-4d28-9cc4-57162bd061c1.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_35_23](https://user-images.githubusercontent.com/112576171/188759784-3b10fea5-6c88-4420-b350-fb423f6a74a4.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_36_11](https://user-images.githubusercontent.com/112576171/188759786-16c627ad-1d63-4f3f-9330-34d69b0cbbb5.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_36_49](https://user-images.githubusercontent.com/112576171/188759788-7edee4d8-51fc-4417-a8b7-3bb07a426d66.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_41_27](https://user-images.githubusercontent.com/112576171/188759820-e2ba49b1-164b-4566-9f77-8ecd776667ff.png)
+![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_41_14](https://user-images.githubusercontent.com/112576171/188759824-e35f3eb4-6a11-46fd-b469-49ef1982bc15.png)
