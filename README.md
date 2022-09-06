@@ -57,7 +57,10 @@ Download the ISO indicated in the image below:
 ![2022-09-06 (18)](https://user-images.githubusercontent.com/112576171/188759492-0c2a2770-d7ae-45dd-b934-e8f6019ccd83.png)
 
 7. Click "Install Oracle Linux 8.6.0".
+
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_28_32](https://user-images.githubusercontent.com/112576171/188759627-882bfb9c-c476-4be4-84ee-b5e79199f9e5.png)
+
+8. 
 
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_39_44](https://user-images.githubusercontent.com/112576171/188759775-966ec43a-2d3e-4221-af1b-051e6a5ba2fb.png)
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_31_58](https://user-images.githubusercontent.com/112576171/188759777-395230fb-925c-448c-9557-84f3410716c7.png)
