@@ -1,5 +1,5 @@
 # Installing-Oracle-Linux-on-Virtual-Box
-Before installing oracle linux, we need to install and configure our virtual machine by following these steps:
+## Before installing oracle linux, we need to install and configure our virtual machine by following these steps:
 
 1. Enter this site and download the latest available version of Virtual Box: https://www.virtualbox.org/
 
@@ -25,7 +25,9 @@ Before installing oracle linux, we need to install and configure our virtual mac
 
 5. Wait for the installation to complete and click "finish". 
 
-The next step now is to install Oracle Linux.
+![Oracle VM VirtualBox 6 1 38 Setup 05_09_2022 22_51_08](https://user-images.githubusercontent.com/112576171/189397195-c8365bce-d756-4f5b-b3f0-ae7fe82a8bf6.png)
+
+## The next step now is to install Oracle Linux.
 1. First, let's download the Oracle Linux version 8.6 ISO from this site: https://yum.oracle.com/oracle-linux-isos.html
 Download the ISO indicated in the image below:
 
@@ -67,7 +69,7 @@ Download the ISO indicated in the image below:
 #### Hard disk
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_33_03](https://user-images.githubusercontent.com/112576171/188759779-9b67e410-09a9-4c52-9d88-14f8bb109709.png)
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_33_26](https://user-images.githubusercontent.com/112576171/188759780-0ed5b599-14c1-4511-9090-a04408f54b29.png)
-#### Software Selection (Minimal install)
+#### Software Selection (Minimal Install)
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_34_10](https://user-images.githubusercontent.com/112576171/188759782-20a334cd-ee3e-4d28-9cc4-57162bd061c1.png)
 #### Your keyboard language (which you can test in the box on the side)
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_35_23](https://user-images.githubusercontent.com/112576171/188759784-3b10fea5-6c88-4420-b350-fb423f6a74a4.png)
@@ -77,3 +79,10 @@ Download the ISO indicated in the image below:
 #### Select your internet network and click on "Begin Installation".
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_41_14](https://user-images.githubusercontent.com/112576171/188759824-e35f3eb4-6a11-46fd-b469-49ef1982bc15.png)
 ![Oracle-Linux  Running  - Oracle VM VirtualBox 06_09_2022 15_41_27](https://user-images.githubusercontent.com/112576171/188759820-e2ba49b1-164b-4566-9f77-8ecd776667ff.png)
+#### After installation click on "Reboot System".
+![Oracle-Linux  Executando  - Oracle VM VirtualBox 07_09_2022 20_12_35](https://user-images.githubusercontent.com/112576171/189397732-26f95a23-8d84-45a6-a196-e14a4afed520.png)
+#### On this screen, select the first option
+![Oracle-Linux  Executando  - Oracle VM VirtualBox 07_09_2022 20_13_15](https://user-images.githubusercontent.com/112576171/189398090-a0fb54c6-6dd5-4588-8f5e-233c54e61eb6.png)
+#### After that, your Linux terminal will open and you log in with your root user.
+![Oracle-Linux  Executando  - Oracle VM VirtualBox 07_09_2022 20_13_58](https://user-images.githubusercontent.com/112576171/189398182-b5009209-fcfa-4d19-8aad-c88eb0ec90da.png)
+## Done! The installation is complete.
